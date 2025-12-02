@@ -40,8 +40,7 @@ End-to-end pipeline that converts a single ECG image into:
 
 Supports all PhysioNet image types (0001, 0003, 0004, …, 0012).
 
-<img width="1774" height="391" alt="0009-0012" src="https://github.com/user-attachments/assets/fc2d9647-058e-4fb3-a56b-dd5199bc643e" />
-<img width="1780" height="373" alt="0003-0006" src="https://github.com/user-attachments/assets/3bd03144-3fa5-48f9-90c9-2feb188c2893" />
+<img width="1802" height="889" alt="0003-0012" src="https://github.com/user-attachments/assets/85582968-3ea7-46f3-aad8-ae1f37fbe421" />
 
 ---
 
@@ -105,6 +104,12 @@ These include:
 * Rectified ECG image
 * Pixel-level waveform overlay
 * Final **12-lead GT vs Pred plot** with SNR/NRMSE/correlation
+
+
+<img width="1851" height="677" alt="flow2" src="https://github.com/user-attachments/assets/36d54489-1b33-45ca-9eba-e9ca11711c98" />
+<img width="1903" height="677" alt="flow1" src="https://github.com/user-attachments/assets/5ff5c10f-a2fc-4977-a5b0-ace48f00ab6f" />
+<img width="1877" height="637" alt="flow0" src="https://github.com/user-attachments/assets/db25ec2b-00ac-48dd-a02e-33919f03c1e6" />
+<img width="3600" height="3000" alt="fig_stage2_series" src="https://github.com/user-attachments/assets/15cb7167-a663-4f61-ae7a-df5f710bc51e" />
 
 ---
 
