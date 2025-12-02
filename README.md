@@ -40,6 +40,9 @@ End-to-end pipeline that converts a single ECG image into:
 
 Supports all PhysioNet image types (0001, 0003, 0004, …, 0012).
 
+<img width="1774" height="391" alt="0009-0012" src="https://github.com/user-attachments/assets/fc2d9647-058e-4fb3-a56b-dd5199bc643e" />
+<img width="1780" height="373" alt="0003-0006" src="https://github.com/user-attachments/assets/3bd03144-3fa5-48f9-90c9-2feb188c2893" />
+
 ---
 
 ### **2. Ground-Truth Mapping & Alignment**
