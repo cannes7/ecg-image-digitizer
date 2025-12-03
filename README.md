@@ -4,6 +4,19 @@ End-to-end ECG image digitization system: homography normalization, grid rectifi
 
 ---
 
+## Dataset
+
+Please download the original PhysioNet ECG Image Digitization dataset directly from Kaggle:
+
+https://www.kaggle.com/competitions/physionet-ecg-image-digitization/data
+
+## Code
+
+My code is contained in the `physionet/archive/` directory of this repository.  
+Once you set the correct paths in the notebook, you can run the code and the folders and result files shown here will be created automatically.
+
+---
+
 Modern ECG software requires **digital time-series**, while hospitals often store ECGs only as **printed sheets or scanned images**.   
 
 To address this issue, this project provide a complete workflow for converting **ECG images** (scans, mobile photographs, printed ECG sheets) into **digital 12-lead time-series signals (mV)**.   
